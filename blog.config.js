@@ -192,17 +192,38 @@ const BLOG = {
   WIDGET_PET_SWITCH_THEME: process.env.NEXT_PUBLIC_WIDGET_PET_SWITCH_THEME || true, // 点击宠物挂件切换博客主题
 
   // 音乐播放插件
-  MUSIC_PLAYER: process.env.NEXT_PUBLIC_MUSIC_PLAYER || false, // 是否使用音乐播放插件
+  MUSIC_PLAYER: process.env.NEXT_PUBLIC_MUSIC_PLAYER || true, // 是否使用音乐播放插件
   MUSIC_PLAYER_VISIBLE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_VISIBLE || true, // 是否在左下角显示播放和切换，如果使用播放器，打开自动播放再隐藏，就会以类似背景音乐的方式播放，无法取消和暂停
   MUSIC_PLAYER_AUTO_PLAY:
-        process.env.NEXT_PUBLIC_MUSIC_PLAYER_AUTO_PLAY || true, // 是否自动播放，不过自动播放时常不生效（移动设备不支持自动播放）
-  MUSIC_PLAYER_LRC_TYPE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_LRC_TYPE || '0', // 歌词显示类型，可选值： 3 | 1 | 0（0：禁用 lrc 歌词，1：lrc 格式的字符串，3：lrc 文件 url）（前提是有配置歌词路径，对 meting 无效）
+        process.env.NEXT_PUBLIC_MUSIC_PLAYER_AUTO_PLAY || false, // 是否自动播放，不过自动播放时常不生效（移动设备不支持自动播放）
+  MUSIC_PLAYER_LRC_TYPE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_LRC_TYPE || '3', // 歌词显示类型，可选值： 3 | 1 | 0（0：禁用 lrc 歌词，1：lrc 格式的字符串，3：lrc 文件 url）（前提是有配置歌词路径，对 meting 无效）
   MUSIC_PLAYER_CDN_URL:
         process.env.NEXT_PUBLIC_MUSIC_PLAYER_CDN_URL ||
         'https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js',
   MUSIC_PLAYER_ORDER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_ORDER || 'list', // 默认播放方式，顺序 list，随机 random
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
+    {
+      name: 'Saika',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://m804.music.126.net/20231019181836/ea55fe75f9250d30ce21c258d95400f3/jdyyaac/535e/545c/520f/d4723f888ec6a191a1bfee50e976b8d1.m4a?authSecret=0000018b475ad0ee1ccf0aaba05671a8',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '追憶',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://m804.music.126.net/20231019181429/2bd7c1735086032ec8369fcfafbbead0/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/10313202115/9d50/7338/b8e2/a6980de095f2685c3db520f00fa6708c.m4a?authSecret=0000018b47570fe9141d0aaba560e117',
+      cover:
+            'http://p2.music.126.net/o-vKXEDYyx_IfqljRvJIpg==/109951166279122045.jpg'
+    },
+    {
+      name: 'Dehors',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://m804.music.126.net/20231019181648/8c78fefac3a2732565d132eb57030245/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/25128989911/ac26/a552/7140/13257a8bac7c187d8688fcb9e383ba67.m4a?authSecret=0000018b47592c2917bc0aaba6060deb',
+      cover:
+            'http://p2.music.126.net/WthcMxdZ8yWxqbT8-8nfKw==/109951168356159879.jpg'
+    },
     {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
