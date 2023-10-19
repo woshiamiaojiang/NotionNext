@@ -36,7 +36,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  INFO_CARD_URL: 'https://github.com/woshiamiaojiang/NotionNext', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://github.com/woshiamiaojiang/', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
