@@ -203,27 +203,27 @@ const BLOG = {
   MUSIC_PLAYER_ORDER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_ORDER || 'list', // 默认播放方式，顺序 list，随机 random
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
-    {
-      name: 'Saika',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://m804.music.126.net/20231019181836/ea55fe75f9250d30ce21c258d95400f3/jdyyaac/535e/545c/520f/d4723f888ec6a191a1bfee50e976b8d1.m4a?authSecret=0000018b475ad0ee1ccf0aaba05671a8',
-      cover:
-            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
-    },
-    {
-      name: '追憶',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://m804.music.126.net/20231019181429/2bd7c1735086032ec8369fcfafbbead0/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/10313202115/9d50/7338/b8e2/a6980de095f2685c3db520f00fa6708c.m4a?authSecret=0000018b47570fe9141d0aaba560e117',
-      cover:
-            'http://p2.music.126.net/o-vKXEDYyx_IfqljRvJIpg==/109951166279122045.jpg'
-    },
-    {
-      name: 'Dehors',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://m804.music.126.net/20231019181648/8c78fefac3a2732565d132eb57030245/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/25128989911/ac26/a552/7140/13257a8bac7c187d8688fcb9e383ba67.m4a?authSecret=0000018b47592c2917bc0aaba6060deb',
-      cover:
-            'http://p2.music.126.net/WthcMxdZ8yWxqbT8-8nfKw==/109951168356159879.jpg'
-    },
+    // {
+    //   name: 'Saika',
+    //   artist: 'Falcom Sound Team jdk',
+    //   url: 'https://m804.music.126.net/20231019181836/ea55fe75f9250d30ce21c258d95400f3/jdyyaac/535e/545c/520f/d4723f888ec6a191a1bfee50e976b8d1.m4a?authSecret=0000018b475ad0ee1ccf0aaba05671a8',
+    //   cover:
+    //         'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    // },
+    // {
+    //   name: '追憶',
+    //   artist: 'Falcom Sound Team jdk',
+    //   url: 'https://m804.music.126.net/20231019181429/2bd7c1735086032ec8369fcfafbbead0/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/10313202115/9d50/7338/b8e2/a6980de095f2685c3db520f00fa6708c.m4a?authSecret=0000018b47570fe9141d0aaba560e117',
+    //   cover:
+    //         'http://p2.music.126.net/o-vKXEDYyx_IfqljRvJIpg==/109951166279122045.jpg'
+    // },
+    // {
+    //   name: 'Dehors',
+    //   artist: 'Falcom Sound Team jdk',
+    //   url: 'https://m804.music.126.net/20231019181648/8c78fefac3a2732565d132eb57030245/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/25128989911/ac26/a552/7140/13257a8bac7c187d8688fcb9e383ba67.m4a?authSecret=0000018b47592c2917bc0aaba6060deb',
+    //   cover:
+    //         'http://p2.music.126.net/WthcMxdZ8yWxqbT8-8nfKw==/109951168356159879.jpg'
+    // },
     {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
