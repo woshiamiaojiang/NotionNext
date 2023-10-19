@@ -331,13 +331,6 @@ const BLOG = {
             'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
     },
     {
-      name: '惊涛落日',
-      artist: 'Falcom Sound Team jdk',
-      url: 'http://music.163.com/song/media/outer/url?id=1433075058.mp3',
-      cover:
-            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
-    },
-    {
       name: '未来はオンナのためにある',
       artist: 'Falcom Sound Team jdk',
       url: 'http://music.163.com/song/media/outer/url?id=1451749299.mp3',
