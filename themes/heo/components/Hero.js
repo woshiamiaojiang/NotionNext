@@ -380,7 +380,7 @@ function TodayCard({ cRef }) {
           style={{
             // 英雄区右侧大主图
             background:
-              "url('/images/heo/hero-right.gif') no-repeat center /cover"  
+              "url('https://raw.githubusercontent.com/woshiamiaojiang/NotionNext/main/public/images/heo/hero-right.gif') no-repeat center /cover"  
           }}
         ></div>
       </div>
