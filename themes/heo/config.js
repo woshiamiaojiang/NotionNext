@@ -41,14 +41,6 @@ const CONFIG = {
   // 用户技能图标
   GROUP_ICONS: [
     {
-      title_1: 'Java',
-      img_1: '/images/heo/Java-logo-vector-01.svg',
-      color_1: '#989bf8',
-      title_2: 'Tomcat',
-      img_2: '/images/heo/Tomcat-logo-vector-01.svg',
-      color_2: '#ffffff'
-    },
-    {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
       color_1: '#989bf8',
@@ -63,6 +55,30 @@ const CONFIG = {
       title_2: 'Photoshop',
       img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
       color_2: '#4082c3'
+    },
+    {
+      title_1: 'Java',
+      img_1: '/images/heo/Java-logo-vector-01.svg',
+      color_1: '#ffffff',
+      title_2: 'Tomcat',
+      img_2: '/images/heo/Tomcat-logo-vector-01.svg',
+      color_2: '#ffffff'
+    },
+    {
+      title_1: 'MySQL',
+      img_1: '/images/heo/MySQL-logo-vector-01.svg',
+      color_1: '#ffffff',
+      title_2: 'Vue',
+      img_2: '/images/heo/Vue-JS-logo-vector-01.svg',
+      color_2: '#ffffff'
+    },
+    {
+      title_1: 'JQuery',
+      img_1: '/images/heo/JQuery-logo-vector-01.svg',
+      color_1: '#ffffff',
+      title_2: 'IDEA',
+      img_2: '/images/heo/Intellij-Idea-logo-vector-01.svg',
+      color_2: '#ffffff'
     },
     {
       title_1: 'FinalCutPro',
