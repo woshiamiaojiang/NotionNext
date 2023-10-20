@@ -41,6 +41,14 @@ const CONFIG = {
   // 用户技能图标
   GROUP_ICONS: [
     {
+      title_1: 'Java',
+      img_1: '/images/heo/Java-logo-vector-01.svg',
+      color_1: '#989bf8',
+      title_2: 'Tomcat',
+      img_2: '/images/heo/Tomcat-logo-vector-01.svg',
+      color_2: '#ffffff'
+    },
+    {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
       color_1: '#989bf8',
