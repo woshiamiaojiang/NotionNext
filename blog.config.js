@@ -687,6 +687,370 @@ const BLOG = {
       cover:
             'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
     },
+    {
+      name: '宵宵古今',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=436016471.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '永无终结的宴会',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=446512251.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Paradisus-Paradoxum',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=474739192.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'I'm Here',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=566365.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '深海少女',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=857619.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'リバーシブル・キャンペーン',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=444269068.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '只有生命',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=1325896800.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '被甩男女',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=1351255013.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Lifeless Sign',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=36103330.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'リグレット',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=38689087.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '妄想税',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=454224097.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '拼凑的断音',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=448706078.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '我们的战场',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=482999607.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Merry Christmas Mr Lawrence',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=17787253.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '劣等上等',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=1318284251.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '遥远路途的前方',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=22753511.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '影炎≒Variation',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=28612339.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Lost One的号哭',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=28870240.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '劣等上等',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=1318284251.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Masked Bitch',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=33378324.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'エンド',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=545350492.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '恋爱的才能',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=38689094.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'ECHO×ヒビカセ -mushup-',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=31356493.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'ミッドナイトストロウラ',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=33516498.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'ミッシング',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=545350494.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'ECHO×ヒビカセ -mushup-',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=31356493.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '不行哦♡',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=611653.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'VIORA',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=436016481.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Paradisus-Paradoxum',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=426852028.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '响喜乱舞',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=1318962459.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '散落飘零',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=436016476.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '深海より愛を込めて',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=29129705.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'hypnoSpirA',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=427419264.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Odyssey',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=427419258.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Sentinel',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=498549809.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '禁忌的边界线',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=412327036.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '爱哭鬼',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=428387120.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Aspirin',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=427419260.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '旅行序曲',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=428387120.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '絶対零度θノヴァティック',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=424264952.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Hopeful Wings',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=427419262.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '吹雪',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=500665354.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Cynic',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=419596411.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '音乐，音乐',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=38689095.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '拼凑的断音',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=38689090.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '破滅の純情',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=424262992.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'Absolute 5',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=431853288.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '声',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=424057340.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '狮子',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=22766925.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '每次相见就更加喜欢上你',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=695753.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: '蓮',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=22753452.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
+    {
+      name: 'PLANET',
+      artist: 'Falcom Sound Team jdk',
+      url: 'http://music.163.com/song/media/outer/url?id=812400.mp3',
+      cover:
+            'http://p1.music.126.net/nxVZ033DIAM7JNHvT-DRMA==/109951163598059944.jpg'
+    },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
