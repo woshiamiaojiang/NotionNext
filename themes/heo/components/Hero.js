@@ -378,8 +378,9 @@ function TodayCard({ cRef }) {
             isCoverUp ? '' : ' pointer-events-none'
           } cursor-pointer today-card-cover absolute w-full h-full top-0`}
           style={{
+            // 英雄区右侧大主图
             background:
-              "url('https://bu.dusays.com/2023/03/12/640dcd3a1b146.png') no-repeat center /cover"
+              "url('https://media.itsnicethat.com/original_images/6_lm7Bdif.gif') no-repeat center /cover"  
           }}
         ></div>
       </div>
