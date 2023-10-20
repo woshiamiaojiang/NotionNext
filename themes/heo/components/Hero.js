@@ -380,7 +380,7 @@ function TodayCard({ cRef }) {
           style={{
             // 英雄区右侧大主图
             background:
-              "url('https://media.itsnicethat.com/original_images/6_lm7Bdif.gif') no-repeat center /cover"  
+              "url('/images/heo/hero-right.gif') no-repeat center /cover"  
           }}
         ></div>
       </div>
